@@ -1,0 +1,21 @@
+{% extends "!layout.html" %}
+  {% block footer %} {{ super() }}
+
+  <style>
+    /* Sidebar header (and topbar for mobile) */
+    .wy-side-nav-search, .wy-nav-top {
+      background: #00ff00;
+    }
+    /* Sidebar */
+    .wy-nav-side {
+      background: #ff0000;
+    }
+  </style>
+{% endblock %}
+
+{% block sidebarlogo %}
+<a href="hhttps://i.gyazo.com/c907ee2594db6800b696c91d4b6c5d7f.png">
+<img src="{{ pathto("_static/OpenMDAOLogo_200x56.png", 1) }}"
+border="0" alt="OpenMDAO Home"/>
+</a>
+{% endblock %}

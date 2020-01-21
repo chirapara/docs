@@ -1,0 +1,669 @@
+OmniStudio User Guide
+=====================
+
+1. Introduction
+---------------
+
+OmniStudio is a fully customizable experience management solution within
+the Merce.io sphere. OmniStudio gives brands the ability to build and
+self-manage their digital experience for web, mobile, tablet and native
+environments. The editor allows you to drag-and-drop elements onto a
+page to build out a digital experience quickly and easily.
+
+2. Important Terms and Icons
+----------------------------
+
+General Terms
+~~~~~~~~~~~~~
+
+SEO
+^^^
+
+Search engine optimization. Increase the visibility of your site to
+users of a web search engine by inserting keywords about the content of
+the site.
+
+Toolbars
+^^^^^^^^
+
+Omnistudio has two toolbars, an upper toolbar and a left toolbar. The
+upper toolbar stays the same with Pages, Blogs, Products, and Themes.
+The left toolbar will have options related to the page you’re on such as
+site routes, and blog categories.
+
+Blog
+^^^^
+
+A blog an informational page published on a site consisting of often
+informal text and media usually helping customers understand some part
+of your company or products.
+
+Route
+^^^^^
+
+A route in OmniStudio is the location of the page in the structure of
+the site. The route can be changed by dragging and dropping in the left
+toolbar.
+
+Content Types
+~~~~~~~~~~~~~
+
+Content in OmniStudio is split into content types. Below is a list of
+each and its definition.
+
+Image
+^^^^^
+
+An image content type will place a single image onto the page.
+
+Button
+^^^^^^
+
+Add a button to your page to link to anywhere you would like.
+
+Text Block
+^^^^^^^^^^
+
+Text Blocks are the primary means of adding text to your site. You can
+also use Text Blocks to add headings, links, lists, quotes, and
+preformatted text.
+
+Image Row
+^^^^^^^^^
+
+Add a row of images to your site rather than just a single image. Image
+rows can contain up to 8 images.
+
+Row
+^^^
+
+Place image content inside a row to customize your page layout.
+
+.. figure:: UserGuideGifs/ElementScreenShot.png
+   :alt: Elements
+
+   Elements
+Banners
+^^^^^^^
+
+An image banner is the heading or advertisement appearing on a page in
+the form of a bar, column, or box.
+
+Slide Show
+^^^^^^^^^^
+
+A slide show will rotate through a series of uploaded images and loop
+through.
+
+Video
+^^^^^
+
+Add an embedded video to play when users visit the site. Simply input
+the video URL.
+
+Image with text overlay
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Add text or a button to the top of your images so that users can read or
+click.
+
+GeoTag Container
+^^^^^^^^^^^^^^^^
+
+A container used to place GeoTag Rows.
+
+Icons
+~~~~~
+
+An icon is a clickable symbol in OmniStudio which performs one of the
+following functions:
+
+-  New Page
+-  Edit content
+-  Information
+-  Delete
+-  Column selections
+-  Profile
+-  Themes
+-  Products
+-  Blogs
+-  Pages
+
+Website Structure Terms
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Site
+^^^^
+
+The term “site” (shortened from “website”) is a collection of linked
+pages associated with a single organization. Your site will encompass
+the entirety of the content contained within your domain name.
+
+Page
+^^^^
+
+A web page is a single page of content on a website. Each page can be
+edited individually in OmniStudio and will contain information within a
+similar theme.
+
+Body
+^^^^
+
+The body of a site is the content that will be displayed on the page.
+There are many types of content that can be placed in the body. Videos,
+text, and images are the most common types of content which can be
+placed into the body.
+
+Containers
+^^^^^^^^^^
+
+The body will be split into containers which will operate to separate
+the page into sections. Containers can have multiple types of content
+within them, and operate like paragraphs in a document to separate
+content into related sections. For example, one container might include
+a banner image showcasing what will be on the page, and the next
+container may have text and a video to further outline the content.
+
+Layout
+^^^^^^
+
+Content can be rearranged into a layout on the page to best serve the
+needs of the customers visiting the page. The layout will include a
+container with the header and footer and other containers in the body.
+
+3. Using OmniStudio
+-------------------
+
+Logging In
+~~~~~~~~~~
+
+-  Go to omnistudio.yourcompany.com. Enter your email and password.
+   Click **Log In**.
+-  If you're having trouble with your password, contact us and we can
+   reset or provide you with your password.
+
+Changing Passwords
+~~~~~~~~~~~~~~~~~~
+
+To change your password click **Profile** in the right corner of the
+upper toolbar. Enter your new password and click Save.
+
+.. figure:: UserGuideGifs/1_Login.gif
+   :alt: Logging In and Viewing Profile
+
+   Logging In and Viewing Profile
+Selecting Your Dashboards
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+OmniStudio has 3 different site editing dashboards depending on the
+nature of your site: **Pages, Blogs, Products** and **Themes**
+
+Once logged in, you will be automatically placed on the **Pages**
+dashboard. Here you can edit your homepage, create and edit new pages,
+and change your navigation in the toolbar.
+
+To edit your Blog, select the **Blogs** icon in the upper toolbar. Here
+you can create, edit, and publish your blog posts. You can also add and
+edit blog catagories in the toolbar.
+
+To view and edit your products, select the **Products** icon in the
+upper toolbar. Here you can import create and edit your products. You
+can also edit filters and attributes in the toolbar.
+
+To edit the Themes of the site, select the **Themes** icon in the upper
+toolbar. Here you can create and edit themes for color and style.
+
+.. figure:: 2_UpperToolbar.gif
+   :alt: Logging In and Viewing Profile
+
+   Logging In and Viewing Profile
+4. Using and Editing Site Pages
+-------------------------------
+
+In the Pages Dashboard (select **Pages** on the upper toolbar), you can
+layout each page of your site and add content. To select a page to edit,
+simply click on the page name from the site map in the left toolbar.
+
+The editor allows you to drag-and-drop elements onto a page to build out
+a digital experience quickly and easily.
+
+Adding a New Page
+~~~~~~~~~~~~~~~~~
+
+To add a new page open the main navigation toolbar. Select the **edit**
+icon to see your current site layout. Add a new page with the **ADD+**
+button and drag and drop to restructure the navigation.
+
+.. figure:: 3_AddPage.gif
+   :alt: Adding a new page
+
+   Adding a new page
+Adding New Content
+~~~~~~~~~~~~~~~~~~
+
+Select the **+** button at the top of the page to insert content. From
+there you can insert the appropriate content type.
+
+.. figure:: 4_AddContent.gif
+   :alt: Adding New Content
+
+   Adding New Content
+Laying out Content
+~~~~~~~~~~~~~~~~~~
+
+Once you’ve added your content, you can move it up or down on the site
+by dragging and dropping it.
+
+To separate your content into columns, select one of the icons
+indicating a number of columns and placements.
+
+To add layout elements, select **Add Content>Layout**. There, you can
+select a row, a GeoTag Container, or a separator for easy layout.
+
+.. figure:: 5_DragDropContent.gif
+   :alt: Laying out Content
+
+   Laying out Content
+Editing Pages
+~~~~~~~~~~~~~
+
+To edit the current page, select the edit icon at the top of the page.
+Change the basics of the page, the visibility, and the SEO (search
+engine optimization) keywords. |EditingPages|
+
+Previewing Revisions
+~~~~~~~~~~~~~~~~~~~~
+
+To preview your revisions, click on the **Preview** button. This will
+show what the changes will look like on the site.
+
+.. figure:: 7_PreviewPage.gif
+   :alt: Previewing Changes
+
+   Previewing Changes
+Editing Existing Content
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+To edit your content, click on the **Edit** icon at the top right corner
+of the content type. There you can edit your content. To publish the
+changes to the site, click **Publish**.
+
+Deleting Content
+~~~~~~~~~~~~~~~~
+
+To delete your content, click on the **x** at the top of the content
+type box. Similarly, to delete a container, row, or column click the
+**x** at the top of the appropriate box.
+
+Inserting and Editing Text Blocks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To insert a text block click **Add Content** and then click on the
+**Text Block** content type.
+
+To edit the image, click the **edit** icon at the top right of the
+content box. From there you can insert your text. Text blocks must be
+inserted in either HTML or CSS.
+
+The following formatting elements can be added to display special types
+of text:
+
+For more information on text to HTML see `HTML Core
+Concepts <https://www.codecademy.com/learn/learn-html/modules/learn-html-elements>`__.
+
+Inserting Links into Text Blocks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To insert a link into the HTML text box, specify the target in the .
+
+Then add the URL text that will work as a link.
+
+Finally, add a to indicate where the link ends.
+
+For more information on HTML see `HTML Core
+Concepts <https://www.codecademy.com/learn/learn-html/modules/learn-html-elements>`__.
+
+Adding Images and Other Media
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Inserting an Image
+^^^^^^^^^^^^^^^^^^
+
+To insert an image click **Add Content** and then click on the **Image**
+content type. The box will automatically populate with your most recent
+image. To change the image, click the **Edit** icon at the top right of
+the content box. From there you can insert an image URL as well as the
+width, alt text, and body text.
+
+Editing or Deleting an Image
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To edit an image, click the **Edit** icon at the top right of the
+content box. This will bring up image options such as the width, alt
+text, and body text.
+
+To delete an image, click the **x** at the top of the content box.
+
+.. figure:: 8_InsertImage.gif
+   :alt: Insert and Editing an Image
+
+   Insert and Editing an Image
+Setting a Banner Image
+^^^^^^^^^^^^^^^^^^^^^^
+
+To insert a banner image, click **Add Content>Banner**. The most
+recently linked banner will be added.
+
+To change the image, or adjust the image style, click on the
+**edit**\ icon to bring up options.
+
+Insert an Image Row or Slide Show
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To insert an image row or slide show image, click **Add Content>Slide
+Show** or **Add Content>Image Row**. The most recently linked images
+will be added.
+
+To change the images, or adjust the image style, click on the **edit**
+icon to bring up options. Click the bottom arrows to change options for
+each image.
+
+Inserting Video, Audio or Other File Type
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To insert a video click **Add Content>Video**. The most recently linked
+banner will be added.
+
+To change the video, click on the edit icon to bring up options. You
+must link to the video from Youtube or another video hosting source.
+
+Adding Social Media Elements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Select **Add Content>Social**.Select the **Edit** icon at the top right
+of the box to insert your Curalate site. This will automatically link
+your Curalate social platform where you can add Shoppable Content, User
+Generated Content or influencer marketing.
+
+.. figure:: 9_AddSocial.gif
+   :alt: Adding Curante Social Info
+
+   Adding Curante Social Info
+Saving and Publishing content
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Content will be automatically saved as you edit. Once you are done
+editing click **Preview** to view your changes. When you’re done
+editing, click **Publish** to publish the page on the live site.
+
+5. Using Blogs
+--------------
+
+To edit your Blog, select the **Blogs** icon in the upper toolbar. Here
+you can create, edit, and publish your blog posts. You can also add and
+edit blog categories in the toolbar.
+
+To view and edit the blog landing page click **Blog Home** at the top of
+the left toolbar. The landing page of your blog can be edited just like
+the other pages with content.
+
+Editing your blog
+~~~~~~~~~~~~~~~~~
+
+To edit your blog, select **Blogs** from the upper toolbar. From there
+you can view edit your blog landing page. By selecting **All Blog
+Posts** on the left toolbar, you can view all your posts, current and
+upcoming.
+
+.. figure:: 10_BlogEdit.gif
+   :alt: Blog Editing
+
+   Blog Editing
+Adding and Editing Blog Posts
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To add a new blog post click **Add Post +** to bring up the Add/Edit
+Blog Post Options. From this page, you can add a title, route, and
+category for your post.
+
+To add a thumbnail, insert an image URL into the Thumbnail field. To
+insert a banner image on the blog post, enter the banner image URL into
+the Banner image field.
+
+To add the text of your post, insert the text into the blog post. Format
+with HTML tags.
+
+Changing Blog Post Catagories
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To create categories for your blogs, create a new blog page. On the blog
+home page, select the **Edit** icon on the left toolbar. To add new
+categories, click **Add+**. Drag and drop the new category to the
+desired location in the site map.
+
+Renaming Blog Post Catagories
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To rename the category, click **Save** and then select the new category
+in the left toolbar. Click the **Edit** icon next to the current name to
+change the name and bring up options
+
+Publishing Blog Posts
+~~~~~~~~~~~~~~~~~~~~~
+
+To publish your blog post immediately, select Immediate in the Publish
+dropdown of the Add / Edit Blog Post menu box. To schedule a post for
+later, select Schedule in the dropdown and enter the desired publish
+date and time.
+
+5. Using Products
+-----------------
+
+To view and edit your products, select the **Products** icon in the
+upper toolbar. Here you can import create and edit your products. You
+can also edit filters and attributes in the toolbar.
+
+Adding New Products
+~~~~~~~~~~~~~~~~~~~
+
+To add a new product, click the **Add New Products** button on the top
+right. The edit product options will allow you to select attributes of
+the product so that it can be sorted by the customer (i.e. beds,
+chairs). You can also insert the name, barcode SKU, price and thumbnail
+URL. Add a description to your product with HTML formatting.
+
+|Adding a new Product| ### Adding and Editing Attributes and Catagories
+
+In the toolbar, select settings to create and edit your attributes.
+Simply click on the attribute to edit the name, order, type, and group.
+
+Using the toolbar, you can also edit attribute groups, options,
+families, and categories to further distinguish and sort your products.
+
+.. figure:: 11_AddAttritubute.gif
+   :alt: Adding Attributes
+
+   Adding Attributes
+6. Using Themes
+---------------
+
+Selecting a theme
+~~~~~~~~~~~~~~~~~
+
+On the dashboard upper toolbar, click on **Themes**. The theme page
+allows you to select your color and style choices. Select from an
+existing theme or input your own.
+
+Adding and Changing your Theme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To add a new theme, click the top right **Add New Themes** button to
+bring up the theme editor. The theme can be named, and applied to one
+page or applied the entire site. Input colors by hex color code. Or
+click on the text to bring up a color selection box. The down arrows
+will change the color input to RGBA, HSLA, or hex color code. Color can
+be selected for each element of the site.
+
+To edit an existing theme, click on the theme name to bring up the
+**Edit Theme** toolbar.
+
+Once saved, selected color options are visible on the **Themes**
+dashboard.
+
+.. figure:: 13_ChangeTheme.gif
+   :alt: Changing Themes
+
+   Changing Themes
+Changing Font and Font Size
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+From the theme page, select a theme by clicking on the theme name. After
+selecting your colors, fonts and font sizes can also be selected in edit
+theme menu.
+
+Saving and Activating Themes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To save your new or edited theme, click **Save** at the bottom right of
+the Edit Themes toolbar. Once you’re ready to activate your theme on
+your site, click **Activate** in the right column of the theme page.
+
+7. Contact Us and Support
+-------------------------
+
+The client may report unavailability and other system errors and
+problems to PeakActivity by telephone, email and such other methods as
+may be agreed upon by the parties. JIRA will be the preferred method of
+submitting non-urgent questions, errors, problems, or improvements.
+Client shall use reasonable efforts to provide as much information as
+possible requested by PeakActivity regarding a reported error or
+problem.
+
+Creating and Submitting a Jira Ticket
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. In JIRA, click on **Create Issue**.
+
+2. Select the project.
+
+3. Fill in the description as precisely as possible. Depending on the
+   type of your issue, provide the appropriate items in the following
+   list:
+
+   1. Steps to reproduce the issue
+   2. Logs
+   3. Screenshots
+   4. Customer development
+   5. Environment. See below for detailed field descriptions.
+
+Click on the **Create** button.
+
+Types of Tickets
+~~~~~~~~~~~~~~~~
+
+Question Ticket
+^^^^^^^^^^^^^^^
+
+Question tickets will describe precisely what information you're looking
+for or what you're trying to do, while also providing the context of the
+question so we can give an accurate answer.
+
+If the question is too complex or too dependent on the business context,
+the Support team can suggest a consulting service so Nuxeo can analyze
+the customer needs more precisely and provide a more complete answer.
+
+Bug Ticket
+''''''''''
+
+Once you have determined that there is a bug beyond an issue with the
+operation of the platform or incident linked to the customer's
+developments please submit a Bug Ticket. To do so, check that your
+scenario can be reproduced on multiple devices or platforms.
+
+If not sure, it is better to create a "Problem" issue for which the
+customer provides more information.
+
+In case of a bug, it is essential to provide the Support team with a way
+to reproduce the bug. Please provide:
+
+-  the step-by-step scenario to reproduce the bug;
+
+-  the server logs: you can try to extract the last stack trace from the
+   console or the server.log file or the message displayed on the web
+   user interface;
+
+-  a screenshot showing the user interface before and after the bug, if
+   relevant.
+
+-  Even if only one of these elements might be enough to identify the
+   bug, the better the bug is described, the quicker and more
+   efficiently the bug will be fixed.
+
+Problem Ticket
+^^^^^^^^^^^^^^
+
+This type is for incidents linked to the customer's developments. In
+that case, provide the elements needed in case of a bug and you should
+also:
+
+-  Provide the plugins you developed AND/OR the developments you think
+   are related to the problem (Java classes, templates, unit tests, XML
+   configuration files),
+
+-  Identify the last changes done on the platform since the moment it
+   worked fine.
+
+-  attach the Studio plugin (.jar file) used at the time of the tests to
+   the JIRA ticket,
+
+-  put a tag on the Studio project, named from the JIRA ticket.
+
+-  On a production environment, it is important to identify the date at
+   which the incident occurred, to find the corresponding errors in the
+   logs.
+
+Improvement Ticket
+^^^^^^^^^^^^^^^^^^
+
+This type is for behaviors that are not available by default on the
+platform and that you would like to implement. It enables you to ask the
+PeakActivity team for bits of advice or good practices to implement new
+features. For this type of ticket, you just need to indicate the desired
+feature and possible constraints in the Description field.
+
+Process Flow for Issue Reporting
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Once a JIRA ticket has been submitted, the ticket will be labeled with
+the following support levels. From there, the PeakActivity team will log
+the report in JIRA, and communicate via email to the appropriate
+response team.
+
+Resolution
+^^^^^^^^^^
+
+An incident shall be deemed to have been resolved upon the occurrence
+of, but not limited to, any one of the following events:
+
+-  The incident cannot, despite reasonable efforts, be reproduced by
+   PeakActivity or Client; unless the same fault is reported two (2) or
+   more times or by multiple (two or more) end-users.
+
+-  PeakActivity has confirmed to Client that the system behavior is as
+   per the original solution design.
+
+-  Client confirms the incident has ceased or been resolved.
+
+-  When there are no responses/inputs received from Client for open
+   incidents and PeakActivity has sent two reminders, in which event the
+   case is will be closed after 5 business days.
+
+Records
+^^^^^^^
+
+PeakActivity shall maintain a record of all submitted error reports and
+track PeakActivity actions toward problem resolution. Reported errors
+shall be assigned a severity level based on the table set forth below.
+
+.. |EditingPages| image:: 6_EditPage.gif
+.. |Adding a new Product| image:: 12_AddProduct.gif

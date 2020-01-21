@@ -1,0 +1,96 @@
+Adding and Editing Products 
+---------------------------
+
+To view and edit your products, select the **Products** icon in the
+upper toolbar. Here you can import create and edit your products. You
+can also edit filters and attributes in the toolbar.
+
+.. figure::  https://i.gyazo.com/be86a733202151a1f8bacd3aa9d10173.png
+
+Adding New Products
+~~~~~~~~~~~~~~~~~~~
+
+To add a new product, click the **Add New Products** button on the top
+right. The edit product options will allow you to select attributes of
+the product so that it can be sorted by the customer (i.e. beds,
+chairs). You can also insert the name, barcode SKU, price and thumbnail
+URL.
+
+Add a short description to your product with HTML formatting (85
+characters). Add pricing information on the left, as well as sale
+pricing on the right if applicable. To add an image to your new product,
+click on the **Image** tab.
+
+Click **Save** to save your new product and close the window. 
+
+.. figure:: https://i.gyazo.com/7158d0544f2c1492c192d91a128c94ec.png
+
+
+Sorting Products 
+---------------------------
+
+Using Attributes
+~~~~~~~~~~~~~~~~
+
+Attributes are the options that you can categorize your products by (ex.
+Size, color, finish). To view all of your available product attributes,
+select the **Meta** icon to create and edit your attributes. There are
+some automatically listed attributes. Simply click on the attribute to
+edit the name, order, type, and group.
+
+To add a new attribute, click on the** New Attributes**in the top right
+corner. Here you can edit all fields of the attribute including label,
+prop name (how the URL will appear), field type, display type,
+associated group, and options.
+
+Options will allow you to add dropdown options for you to assign to each
+product. For example, if you are adding options to the “color”
+attribute, your options would be all of your available product colors.
+This will allow you to assign a color dropdown menu to each product so
+that users can select a color.
+
+All options for every product can be found and edited under **Attribute
+Options** in the **Meta** toolbar.
+
+Selecting Attribute Groups, Families, and Product Group
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Attribute groups can further categorize your products. You can select a
+label and sort order to your attribute groups for users to selectively
+view your products by attribute.
+
+The product **Family** is the type of product listed. (e.g. Fans)
+
+Using the toolbar, you can also edit attribute groups, options,
+families, and categories to further distinguish and sort your products.
+
+.. figure:: https://i.gyazo.com/8c44c62a8bb2481cd4e480d230a5ce26.png
+
+Creating Promos 
+~~~~~~~~~~~~~~~
+
+To view your orders click **Orders** in the product toolbar. Here you
+can view all submitted orders
+
+
+Managing Orders 
+----------------
+
+Selecting Vendors and Shipping Dates
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For each product, you can list which vendor the product will ship from.
+To edit vendors, click on **Vendors** under **Meta** in the toolbar. To
+add a new vendor click **Add New Vendor**. Here you can add a name and
+number of items in stock. You can also enter shipping rules including
+ship type, inventor position, process days, ERP Buffer Days, and Minimum
+and Maximum ship days. Click **Save** to save new vendor.
+
+Viewing Orders
+~~~~~~~~~~~~~~
+
+To view your orders click **Orders** in the product toolbar. Here you
+can view all submitted orders
+
+
+
