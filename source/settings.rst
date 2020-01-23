@@ -4,7 +4,7 @@ Using Settings
 If you are having trouble viewing your live changes. Click **Settings**
 in the upper navigation bar to clear the cache.
 
-Creating Multiple Sites
+Creating multiple sites
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 merceStudio has the ability to have multiple ‘sites.’ A site is a
@@ -25,7 +25,7 @@ used for defining a navigation structure in the header or footer.
 
 A user that is not assigned to a specific site, can curate all sites.
 
-Setting Up a New Site
+Setting up a new site
 ^^^^^^^^^^^^^^^^^^^^^
 
 To create a site:
@@ -40,7 +40,7 @@ Once you create a new site, you can switch between sites with dropdown
 menu located in the top navigation bar.
 
 
-Assigning a User to a Site
+Assigning a user to a site
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. In the top navigation bar, select Settings>User Management> Users.

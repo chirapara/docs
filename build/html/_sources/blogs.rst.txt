@@ -8,8 +8,8 @@ like the other pages with content.
 
 ..  figure:: https://i.gyazo.com/d04b1d14006ce3b49bed06d73b62a9f9.png
 
-Creating a Blog Post Landing Page
----------------------------------
+Creating a blog landing page
+----------------------------
 
 To add your blog posts to any page on the **Blogs or Pages** apps,
 simply use the **Dynamic Content Block Renderer** content type.
@@ -21,7 +21,7 @@ simply use the **Dynamic Content Block Renderer** content type.
 4. Under Category IDs, select the Blog Post that you would like to place
 5. Click **Save.**
 
-Adding and Editing Blog Posts
+Adding and editing blog posts
 -----------------------------
 
 Creating a post
@@ -87,7 +87,7 @@ category to the Blog category tree.
 .. figure:: https://i.gyazo.com/54536e6ef9f7a17ea79fa9fb74941b20.gif
 
 
-Changing Blog Post Categories
+Changing blog post categories
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To create categories for your blogs, create a new blog page. On the blog
@@ -95,7 +95,7 @@ home page, select the **Edit** icon on the left toolbar. To add new
 categories, click **Add+.** Drag and drop the new category to the
 desired location in the site map.
 
-Renaming Blog Post Categories
+Renaming blog post categories
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To rename the category, click **Save** and then select the new category

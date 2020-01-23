@@ -1,5 +1,5 @@
 What is merceStudio?
----------------
+--------------------
 
 .. figure:: https://i.gyazo.com/4c00bb842c48f305badb6910e258c0d2.png
 
@@ -14,8 +14,8 @@ merceStudio is the gateway platform into your merce apps. By logging
 into to merceStudio, you can access your pages, product, and blog
 editing applications.
 
-General Terms
-----------------------------
+General terms
+-------------
 
 **SEO**
 
@@ -44,8 +44,8 @@ A route in merceStudio is the location of the page in the structure of
 the site. The route can be changed by dragging and dropping in the left
 toolbar.
 
-Website Structure Terms
-~~~~~~~~~~~~~
+Website structure terms
+~~~~~~~~~~~~~~~~~~~~~~~
 
 **Site**
 
@@ -85,7 +85,7 @@ the needs of the customers visiting the page. The layout will
 automatically include a container with the navigation bar, header, and
 footer as well as other containers that you can edit in the body.
 
-Content Types
+Content types
 -------------
 
 .. figure:: https://i.gyazo.com/2503e8f20c6dc1601802246b9cf94703.png
@@ -175,10 +175,10 @@ one of the following functions:
 Note: Icons can also be non-clickable symbols.
 
 
-Getting Started
+Getting started
 ---------------
 
-Logging In
+Logging in
 ~~~~~~~~~~
 
 1. Go to Mstudio.yourcompany.com.
@@ -190,8 +190,8 @@ or provide you with your password.
 
 .. figure:: https://i.gyazo.com/108970fc3db2f1df7acddc56b2290c96.gif
 
-Changing Passwords
-~~~~~~~~~~~~~~~~~~
+Changing your password
+~~~~~~~~~~~~~~~~~~~~~~
 
 To change your password:
 
@@ -201,8 +201,8 @@ To change your password:
 .. figure:: https://i.gyazo.com/a5b3a71c44e4b4d3f0540f94da07b727.gif
 
 
-Navigating Your Dashboard
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Navigating merceStudio
+~~~~~~~~~~~~~~~~~~~~~~
 
 merceStudio has 5 different editing apps depending on which part of your
 site you would like to edit: **Pages, Blogs, Careers, Products, and Themes.** You can access them through either the **Content** dropdown menu or the merceStudio homepage icons.

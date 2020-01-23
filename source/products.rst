@@ -1,4 +1,4 @@
-Adding and Editing Products 
+Adding and editing products 
 ---------------------------
 
 To view and edit your products, select the **Products** icon in the
@@ -7,7 +7,7 @@ can also edit filters and attributes in the toolbar.
 
 .. figure::  https://i.gyazo.com/be86a733202151a1f8bacd3aa9d10173.png
 
-Adding New Products
+Adding new products
 ~~~~~~~~~~~~~~~~~~~
 
 To add a new product, click the **Add New Products** button on the top
@@ -23,19 +23,24 @@ click on the **Image** tab.
 
 Click **Save** to save your new product and close the window. 
 
-.. figure:: https://i.gyazo.com/7158d0544f2c1492c192d91a128c94ec.png
+.. figure:: https://i.gyazo.com/9184cbb507c8f47d4ab1f980856286ce.png
 
 
-Sorting Products 
+Sorting products 
 ---------------------------
 
-Using Attributes
+Using attributes
 ~~~~~~~~~~~~~~~~
 
 Attributes are the options that you can categorize your products by (ex.
 Size, color, finish). To view all of your available product attributes,
-select the **Meta** icon to create and edit your attributes. There are
-some automatically listed attributes. Simply click on the attribute to
+select the **Meta** icon to create and edit your attributes. Or navigate 
+from the upper toolbar. 
+
+.. figure:: https://i.gyazo.com/9184cbb507c8f47d4ab1f980856286ce.png
+
+
+There are some automatically listed attributes. Simply click on the attribute to
 edit the name, order, type, and group.
 
 To add a new attribute, click on the** New Attributes**in the top right
@@ -52,7 +57,7 @@ that users can select a color.
 All options for every product can be found and edited under **Attribute
 Options** in the **Meta** toolbar.
 
-Selecting Attribute Groups, Families, and Product Group
+Selecting attribute groups, families, and product group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Attribute groups can further categorize your products. You can select a
@@ -66,7 +71,7 @@ families, and categories to further distinguish and sort your products.
 
 .. figure:: https://i.gyazo.com/8c44c62a8bb2481cd4e480d230a5ce26.png
 
-Creating Promos 
+Creating promos 
 ~~~~~~~~~~~~~~~
 
 To view your orders click **Orders** in the product toolbar. Here you
@@ -76,7 +81,7 @@ can view all submitted orders
 Managing Orders 
 ----------------
 
-Selecting Vendors and Shipping Dates
+Selecting vendors and shipping dates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For each product, you can list which vendor the product will ship from.
@@ -86,7 +91,7 @@ number of items in stock. You can also enter shipping rules including
 ship type, inventor position, process days, ERP Buffer Days, and Minimum
 and Maximum ship days. Click **Save** to save new vendor.
 
-Viewing Orders
+Viewing orders
 ~~~~~~~~~~~~~~
 
 To view your orders click **Orders** in the product toolbar. Here you

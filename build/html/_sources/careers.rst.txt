@@ -5,16 +5,16 @@ You can also filter and categorize your postings in the toolbar.
 .. figure:: https://i.gyazo.com/be86a733202151a1f8bacd3aa9d10173.png
 
 
-Creating a Career Page
+Creating a Career page
 ----------------------
 
 To edit pages in careers, follow the same guidelines listed in the
 **Pages** section.
 
-Adding and Editing Job Posts
+Adding and editing job posts
 ----------------------------
 
-Creating New Job Posts
+Creating new job posts
 ~~~~~~~~~~~~~~~~~~~~~~
 
 To view all of your job postings, click on **All Posts** in the
@@ -25,14 +25,14 @@ From here, add a title to your job, route (what the URL will look like),
 category, a banner, thumbnail image. Add a description to complete your
 post.
 
-Editing Job Posts
+Editing job posts
 ~~~~~~~~~~~~~~~~~
 
 To edit your posts, simply click on the **Edit** button under
 **Actions.** This will open the add/edit post menu. To delete a post,
 click on the **Trash** icon under actions.
 
-Using Career Categories
+Using career categories
 -----------------------
 
 ..  raw:: html 
