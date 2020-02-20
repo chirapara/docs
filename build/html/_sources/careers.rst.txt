@@ -2,7 +2,7 @@ To view and edit your careers page, select the **Careers** icon in the
 upper toolbar. Here you can import create and edit your job postings.
 You can also filter and categorize your postings in the toolbar.
 
-.. figure:: https://i.gyazo.com/be86a733202151a1f8bacd3aa9d10173.png
+.. figure:: gifs/be86a733202151a1f8bacd3aa9d10173.png
 
 
 Creating a Career page

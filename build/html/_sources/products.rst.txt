@@ -5,7 +5,7 @@ To view and edit your products, select the **Products** icon in the
 upper toolbar. Here you can import create and edit your products. You
 can also edit filters and attributes in the toolbar.
 
-.. figure::  https://i.gyazo.com/be86a733202151a1f8bacd3aa9d10173.png
+.. figure::  gifs/be86a733202151a1f8bacd3aa9d10173.png
 
 Adding new products
 ~~~~~~~~~~~~~~~~~~~
@@ -23,7 +23,7 @@ click on the **Image** tab.
 
 Click **Save** to save your new product and close the window. 
 
-.. figure:: https://i.gyazo.com/9184cbb507c8f47d4ab1f980856286ce.png
+.. figure:: gifs/9184cbb507c8f47d4ab1f980856286ce.png
 
 
 Sorting products 
@@ -37,7 +37,7 @@ Size, color, finish). To view all of your available product attributes,
 select the **Meta** icon to create and edit your attributes. Or navigate 
 from the upper toolbar. 
 
-.. figure:: https://i.gyazo.com/9184cbb507c8f47d4ab1f980856286ce.png
+.. figure:: gifs/9184cbb507c8f47d4ab1f980856286ce.png
 
 
 There are some automatically listed attributes. Simply click on the attribute to
@@ -69,7 +69,7 @@ The product **Family** is the type of product listed. (e.g. Fans)
 Using the toolbar, you can also edit attribute groups, options,
 families, and categories to further distinguish and sort your products.
 
-.. figure:: https://i.gyazo.com/8c44c62a8bb2481cd4e480d230a5ce26.png
+.. figure:: gifs/8c44c62a8bb2481cd4e480d230a5ce26.png
 
 Creating promos 
 ~~~~~~~~~~~~~~~

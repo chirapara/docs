@@ -8,7 +8,7 @@ On the dashboard upper toolbar, click on **Themes.** The theme page
 allows you to select your color and style choices. Select from an
 existing theme or input your own.
 
-.. figure::  https://i.gyazo.com/8164c7101d6734bc6395ae59219743b8.png
+.. figure::  gifs/8164c7101d6734bc6395ae59219743b8.png
 
 Adding and changing your theme
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -26,7 +26,7 @@ To edit an existing theme, click on the theme name to bring up the
 Once saved, selected color options are visible on the **Themes**
 dashboard.
 
-.. figure:: https://i.gyazo.com/17058518e800ae093800eec18645d07f.gif
+.. figure:: gifs17058518e800ae093800eec18645d07f.gif
 
 
 Changing font and font size

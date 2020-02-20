@@ -1,7 +1,7 @@
 What is merceStudio?
 --------------------
 
-.. figure:: https://i.gyazo.com/4c00bb842c48f305badb6910e258c0d2.png
+.. figure:: gifs/4c00bb842c48f305badb6910e258c0d2.png
 
 
 merceStudio is a fully customizable experience management solution
@@ -88,7 +88,7 @@ footer as well as other containers that you can edit in the body.
 Content types
 -------------
 
-.. figure:: https://i.gyazo.com/2503e8f20c6dc1601802246b9cf94703.png
+.. figure:: gifs/2503e8f20c6dc1601802246b9cf94703.png
 
 The page management section of merceStudio is comprised of different
 components or content types. Below is a list of Content Types.
@@ -188,7 +188,7 @@ Logging in
 If you're having trouble with your password, contact us and we can reset
 or provide you with your password.
 
-.. figure:: https://i.gyazo.com/108970fc3db2f1df7acddc56b2290c96.gif
+.. figure:: gifs/108970fc3db2f1df7acddc56b2290c96.gif
 
 Changing your password
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -198,7 +198,7 @@ To change your password:
 1. Click your username in the right corner of the upper toolbar.
 2. Enter your new password and click **Save**.
 
-.. figure:: https://i.gyazo.com/a5b3a71c44e4b4d3f0540f94da07b727.gif
+.. figure:: gifs/a5b3a71c44e4b4d3f0540f94da07b727.gif
 
 
 Navigating merceStudio
@@ -207,7 +207,7 @@ Navigating merceStudio
 merceStudio has 5 different editing apps depending on which part of your
 site you would like to edit: **Pages, Blogs, Careers, Products, and Themes.** You can access them through either the **Content** dropdown menu or the merceStudio homepage icons.
 
-.. figure::  https://i.gyazo.com/d4524e75ce8c007ace5b5c934bedf94f.png
+.. figure::  gifs/d4524e75ce8c007ace5b5c934bedf94f.png
 
 1. Select content to edit your page content. **Pages** can edit your
    homepage, create and edit new pages, and change your navigation in

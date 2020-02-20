@@ -6,7 +6,7 @@ To view and edit the blog landing page click **Blog Home** at the top
 of the left toolbar. The landing page of your blog can be edited just
 like the other pages with content.
 
-..  figure:: https://i.gyazo.com/d04b1d14006ce3b49bed06d73b62a9f9.png
+..  figure:: gifs/d04b1d14006ce3b49bed06d73b62a9f9.png
 
 Creating a blog landing page
 ----------------------------
@@ -38,7 +38,7 @@ the Banner image field.
 To add the text of your post, insert the text into the blog post. Format
 with HTML tags.
 
-.. figure:: https://i.gyazo.com/facec6f59c8bac5e8772814156f3590d.png
+.. figure:: gifs/facec6f59c8bac5e8772814156f3590d.png
 
 
 
@@ -84,7 +84,7 @@ category to the Blog category tree.
 3. Click on the subcategory to rename it.
 
 
-.. figure:: https://i.gyazo.com/54536e6ef9f7a17ea79fa9fb74941b20.gif
+.. figure:: gifs/54536e6ef9f7a17ea79fa9fb74941b20.gif
 
 
 Changing blog post categories

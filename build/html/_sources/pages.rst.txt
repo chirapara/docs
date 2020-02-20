@@ -4,7 +4,7 @@ Navigating to Pages
 Find all of your site pages by selecting **Content** on the Content dropdown. 
 Select **Pages** from the dropdown menu. 
 
-.. figure:: https://i.gyazo.com/0b98bd7036fc0282baaa5802223aaab6.png
+.. figure:: gifs/0b98bd7036fc0282baaa5802223aaab6.png
 
 Adding and editing site pages 
 -----------------------------
@@ -24,14 +24,14 @@ To add a new page:
 
 1. Open the main navigation toolbar.
 
-.. figure:: https://i.gyazo.com/df74f156e6f00f74e6b641b84d6bf02b.png
+.. figure:: gifs/df74f156e6f00f74e6b641b84d6bf02b.png
 
 
 2. Select the **edit** icon to see your current site layout.
 3. Add a new page with the **ADD+** button and drag and drop to
    restructure the navigation.
 
-.. figure:: https://i.gyazo.com/896876be9b95922c3b7332d8cccebbb7.gif
+.. figure:: gifs/896876be9b95922c3b7332d8cccebbb7.gif
 
 Editing pages
 ~~~~~~~~~~~~~
@@ -40,12 +40,12 @@ To edit the current page:
 
 1. Select the edit icon at the top of the page.
 
-.. figure:: https://i.gyazo.com/29fb6c180dc307c46ea3b5a55197bf35.png
+.. figure:: gifs/29fb6c180dc307c46ea3b5a55197bf35.png
 
 2. Change the basics of the page, the visibility, and
    the SEO keywords.
 
-.. figure:: https://i.gyazo.com/1386563e3341956b75c5016baf6d9344.gif
+.. figure:: gifs/1386563e3341956b75c5016baf6d9344.gif
 
 
 Adding new content
@@ -56,11 +56,11 @@ To add new content:
 1. Select the **Add Content+** button at the top of the container to
    insert content.
 
-.. figure:: https://i.gyazo.com/232c0f4312dd38d66de9aba08f2cae98.png
+.. figure:: gifs/232c0f4312dd38d66de9aba08f2cae98.png
 
 2. Insert the appropriate content type
 
-.. figure:: https://i.gyazo.com/f302bccc5487c065ef35f41b42e9b030.gif
+.. figure:: gifs/f302bccc5487c065ef35f41b42e9b030.gif
 
 
 Using text blocks
@@ -70,7 +70,7 @@ To insert a text block
 
 1. click **Add Content** and then click on the **Text Block** content type.
 
-.. figure:: https://i.gyazo.com/f302bccc5487c065ef35f41b42e9b030.gif
+.. figure:: gifs/f302bccc5487c065ef35f41b42e9b030.gif
 
 2. To edit the text, click the **Edit** icon at the top right of the
    content box. From there you can insert your text.
@@ -90,7 +90,7 @@ Concepts <https://www.codecademy.com/learn/learn-html/modules/learn-html-element
 
 To delete a content block, click the **x** at the top of the content box.
 
-.. figure:: https://i.gyazo.com/6d8a8bd65a18a2f221329c4ba0be308c.png
+.. figure:: gifs/6d8a8bd65a18a2f221329c4ba0be308c.png
 
 
 Inserting links into text blocks
@@ -124,7 +124,7 @@ To add a new site language:
 2. Choose from the list of available languages to translate the page for
    global users.
 
-.. figure:: https://i.gyazo.com/c6cdacbe3aceed441aa312ab68e8a88b.gif
+.. figure:: gifs/c6cdacbe3aceed441aa312ab68e8a88b.gif
 
 Adding images and other media
 -----------------------------
@@ -153,7 +153,7 @@ To edit an image:
 
 To delete an image, click the **x** at the top of the content box.
 
-.. figure:: https://i.gyazo.com/6d8a8bd65a18a2f221329c4ba0be308c.png
+.. figure:: gifs/6d8a8bd65a18a2f221329c4ba0be308c.png
 
 Setting a banner image
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -224,12 +224,12 @@ Laying out content
 Once you’ve added your content, you can move it up or down on the site
 by dragging and dropping it.
 
-.. figure:: https://i.gyazo.com/555607331cd3142b78d97911cfcd29e4.gif
+.. figure:: gifs/555607331cd3142b78d97911cfcd29e4.gif
 
 To separate your content into columns, select one of the icons
 indicating several columns and placements.
 
-.. figure:: https://i.gyazo.com/4c555d49612b7e2401130d2928bb1d2b.png
+.. figure:: gifs/4c555d49612b7e2401130d2928bb1d2b.png
 
 To move content within a row, use the reparent feature:
 
@@ -237,7 +237,7 @@ To move content within a row, use the reparent feature:
 2. Select **Reparent**
 3. Click on the content you wish to move.
 
-.. figure:: https://i.gyazo.com/da36bcd32b2b25728a61d110881d1544.gif
+.. figure:: gifs/da36bcd32b2b25728a61d110881d1544.gif
 
 
 **Note:** Merce has a standard 15-pixel margin. To customize your
@@ -256,7 +256,7 @@ To edit your content:
 2. There you can edit your content. To publish
    the changes to the site, click **Publish.**
 
-.. figure:: https://i.gyazo.com/5f59a0e0d03a0f6ea61d1d79f284ba4c.png
+.. figure:: gifs/5f59a0e0d03a0f6ea61d1d79f284ba4c.png
 
 Previewing and publishing 
 -------------------------
@@ -264,7 +264,7 @@ Previewing and publishing
 To preview your revisions, click on the **Preview** button. This will
 show the changes on the site on mobile, tablet and desktop
 
-.. figure:: https://i.gyazo.com/18be6aac23345caa0ce13def33493b62.gif
+.. figure:: gifs/18be6aac23345caa0ce13def33493b62.gif
 
 
 Saving and publishing content
@@ -285,7 +285,7 @@ To delete your content:
 2. To delete a container, row, or column click the
    **x** at the top of the appropriate box.
 
-.. figure:: https://i.gyazo.com/6d8a8bd65a18a2f221329c4ba0be308c.png
+.. figure:: gifs/6d8a8bd65a18a2f221329c4ba0be308c.png
 
 
 Viewing revision history
@@ -299,6 +299,6 @@ To see your revision history:
    user who made the changes. 
 3. To preview the revision, click **Preview.**
 
-.. figure:: https://i.gyazo.com/6f4287300e697d0a5e6087ba38ff2e69.png
+.. figure:: gifs/6f4287300e697d0a5e6087ba38ff2e69.png
 
 
